@@ -1,0 +1,9 @@
+opencv-python
+deepface 
+langchain
+langchain-groq
+streamlit 
+pillow 
+numpy
+tf-keras
+langchain-community
